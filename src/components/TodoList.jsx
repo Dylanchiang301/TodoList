@@ -41,7 +41,6 @@ const TodoList = () => {
       setTodos(updatedTodos);
     };
     
-
   return (
     <div>
         <h1>what's the plan today?</h1>
